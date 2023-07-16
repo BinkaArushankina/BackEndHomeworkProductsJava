@@ -1,0 +1,3 @@
+Bread#5#true
+Milk#6#false
+salt#6#true
